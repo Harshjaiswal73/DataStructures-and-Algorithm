@@ -1,0 +1,4 @@
+.equal pehle address check kerta hai ager address barabar na ho to  fir ek ek kerke character check kerta hai
+Don't use == 
+immutable me char change nhi ho sakta address change ho sakta hai
+Reference is mutable instance is not
